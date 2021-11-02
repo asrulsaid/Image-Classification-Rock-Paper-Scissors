@@ -1,1 +1,1 @@
-# Image-Classification-Rock-Paper-Scissorsusing-Convolutional-Neural-Network-CNN-
+# Image-Classification-Rock-Paper-Scissors
